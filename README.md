@@ -3,8 +3,8 @@
 1. jggIndex.vue 主页面
 imgs文件夹：放图片
 
-```function refreshRem(){
-        var width = docEl.getBoundingClientRect().width;
+```
+    var width = docEl.getBoundingClientRect().width;
         // if (width / dpr > 540) {
         //     width = 540 * dpr;
         // }
